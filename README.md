@@ -11,7 +11,7 @@ Este projeto foi um desafio enviado para mim durante o Processo Seletivo na empr
     react-router-dom: ^6.2.2,
 
 
-### `Instalação do projeto localmente
+## `Instalação do projeto localmente
 Após cada um dos passos, haverá um exemplo do comando a ser digitado para fazer o que está sendo orientado, caso tenha dificuldades e o exemplo não seja suficiente, não hesite em me contatar em davimarque2000@gmail.com.
 
 1. clone o Projeto
@@ -29,7 +29,7 @@ Após cada um dos passos, haverá um exemplo do comando a ser digitado para faze
 
 Após a execução do terceiro passo o navegador ja deverá abrir automaticamente a aplicação
 
-### Como Utilizar ?
+## Como Utilizar ?
 A calculadora de salário liquido é muito facil de ser utilizada. Basta o Usuário colocar o valor de seu salário bruto, os descontos realizados no mês, e a quantidade de dependentes (declarados no imposto de renda) nos campos indicados e então clicar no botão "calcular".O resultado será o valor do salário liquido ja calculado e uma tabela com os detalhes de cada desconto    
 
 
